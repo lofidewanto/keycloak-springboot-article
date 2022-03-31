@@ -18,4 +18,8 @@ To set up this environment locally just run `deploy.sh` script in root project d
 It will compile java application and prepare `springboot-keycloak-1.0.jar`. 
 Then script will run jar alongside Keycloak docker.
 
+Spring Boot App:
 http://localhost:8080/hello
+
+Management Console Keycloak:
+http://localhost:8090/auth
